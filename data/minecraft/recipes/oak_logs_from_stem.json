@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      [
+          {
+              "item": "minecraft:mushroom_stem"
+          }
+      ]
+    ],
+    "result": {
+      "item": "minecraft:oak_logs",
+      "count": 4
+    }
+  }

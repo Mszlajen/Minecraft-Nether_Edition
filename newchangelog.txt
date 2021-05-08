@@ -1,0 +1,10 @@
+## [2.0.0] - 2021-05-
+### Changes
+- Zombified piglins no longer named Zombie piglins
+- Mushroom stems -> Oak log recipe appears in recipe book
+- Old reliable enchantments no longer hidden (so the player knows about curse of vanishing)
+- Chances of mushrooms dropping from warts increased
+- Horse armor (all types) replace for Red nether bricks in Nether Fortresses' chests
+- Nether dimension changed to default values
+- Nether height increased to 256 blocks
+- Nether portals get destroyed when trying to uses them
