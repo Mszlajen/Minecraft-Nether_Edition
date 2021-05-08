@@ -10,3 +10,4 @@
 - Nether portals get destroyed when trying to uses them
 - Remove obsidian and crying obsidian recipes
 - Nether foliage can be made into paper
+- Nether foliage drops only slight worse than vanilla
