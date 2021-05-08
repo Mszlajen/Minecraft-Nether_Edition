@@ -6,42 +6,20 @@
     ]
   },
   "criteria": {
-    "has_sprout": {
+    "has_nether_foliage": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
           {
-            "item": "minecraft:nether_sprouts"
+            "tag": "nether_life:nether_paper_material"
           }
         ]
       }
-    },
-      "has_warped_root": {
-        "trigger": "minecraft:inventory_changed",
-        "conditions": {
-          "items": [
-            {
-              "item": "minecraft:warped_roots"
-            }
-          ]
-        }
-      },
-        "has_crimson_root": {
-          "trigger": "minecraft:inventory_changed",
-          "conditions": {
-            "items": [
-              {
-                "item": "minecraft:crimson_roots"
-              }
-            ]
-          }
-        }
+    }
   },
   "requirements": [
     [
-      "has_sprout",
-      "has_crimson_root",
-      "has_warped_root"
+      "has_nether_foliage"
     ]
   ]
 }
