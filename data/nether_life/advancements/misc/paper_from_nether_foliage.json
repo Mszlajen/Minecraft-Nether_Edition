@@ -1,0 +1,47 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "nether_life:paper"
+    ]
+  },
+  "criteria": {
+    "has_sprout": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:nether_sprouts"
+          }
+        ]
+      }
+    },
+      "has_warped_root": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "items": [
+            {
+              "item": "minecraft:warped_roots"
+            }
+          ]
+        }
+      },
+        "has_crimson_root": {
+          "trigger": "minecraft:inventory_changed",
+          "conditions": {
+            "items": [
+              {
+                "item": "minecraft:crimson_roots"
+              }
+            ]
+          }
+        }
+  },
+  "requirements": [
+    [
+      "has_sprout",
+      "has_crimson_root",
+      "has_warped_root"
+    ]
+  ]
+}

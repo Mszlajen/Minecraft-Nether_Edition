@@ -2,17 +2,17 @@
   "parent": "minecraft:recipes/root",
   "rewards": {
     "recipes": [
-      "minecraft:enchanting_table",
-	  "nether_life:obsidian_from_water_and_lava"
+      "minecraft:blue_dye",
+	    "nether_life:crying_obsidian"
     ]
   },
   "criteria": {
-    "has_obsidian": {
+    "has_lapis_lazuli": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
           {
-            "item": "minecraft:obsidian"
+            "item": "minecraft:lapis_lazuli"
           }
         ]
       }
@@ -20,13 +20,13 @@
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "minecraft:enchanting_table"
+        "recipe": "minecraft:blue_dye"
       }
     }
   },
   "requirements": [
     [
-      "has_obsidian",
+      "has_lapis_lazuli",
       "has_the_recipe"
     ]
   ]

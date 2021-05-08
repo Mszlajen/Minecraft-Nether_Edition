@@ -2,17 +2,18 @@
   "parent": "minecraft:recipes/root",
   "rewards": {
     "recipes": [
-      "minecraft:blue_dye",
-	  "nether_life:crying_obsidian"
+      "minecraft:quartz",
+	    "nether_life:iron_nugget_from_quartz",
+	    "nether_life:iron_nugget_from_quartz_blasting"
     ]
   },
   "criteria": {
-    "has_lapis_lazuli": {
+    "has_nether_quartz_ore": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
           {
-            "item": "minecraft:lapis_lazuli"
+            "item": "minecraft:nether_quartz_ore"
           }
         ]
       }
@@ -20,13 +21,13 @@
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "minecraft:blue_dye"
+        "recipe": "minecraft:quartz"
       }
     }
   },
   "requirements": [
     [
-      "has_lapis_lazuli",
+      "has_nether_quartz_ore",
       "has_the_recipe"
     ]
   ]
