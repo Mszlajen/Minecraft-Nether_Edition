@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "WWW",
+      "CIC",
+      "CRC"
+    ],
+    "key": {
+      "W": {
+        "tags": "minecraft:planks"
+      },
+      "C": {
+        "item": "minecraft:blackstone"
+      },
+      "R": {
+        "item": "minecraft:redstone"
+      },
+      "I": {
+        "item": "minecraft:iron_ingot"
+      }
+    },
+    "result": {
+      "item": "minecraft:repeater"
+    }
+  }
