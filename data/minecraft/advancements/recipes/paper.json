@@ -2,7 +2,7 @@
   "parent": "minecraft:recipes/root",
   "rewards": {
     "recipes": [
-      "nether_life:paper"
+      "minecraft:paper"
     ]
   },
   "criteria": {
@@ -11,7 +11,7 @@
       "conditions": {
         "items": [
           {
-            "tag": "nether_life:nether_paper_material"
+            "tag": "minecraft:nether_paper_material"
           }
         ]
       }
