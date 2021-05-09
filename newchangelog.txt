@@ -14,3 +14,4 @@
 - Gilded blackstone requires a gold ingot and smithing table
 - Blackstone can no longer be made with basalt
 - Piglins have small chanche of mending and diamonds in place of iron boots and nether bricks, rest is vanilla
+- Redstone stuff
