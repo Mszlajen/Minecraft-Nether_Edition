@@ -1,0 +1,40 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "nether_life:lapis_block_from_warped_wart",
+      "nether_life:lapis_from_warped_wart"
+    ]
+  },
+  "criteria": {
+    "has_warped_wart": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:warped_wart_block"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "nether_life:lapis_block_from_warped_wart"
+      }
+    },
+    "has_the_recipe2": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "nether_life:lapis_from_warped_wart"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_warped_wart",
+      "has_the_recipe",
+      "has_the_recipe2"
+    ]
+  ]
+}
