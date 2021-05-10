@@ -17,3 +17,4 @@
 - Redstone stuff
 - Get redstone and lapis from wart and furnace or blast furnace
 - Shears work with warts
+- Get back to nether if spawn point is not set or unusable
