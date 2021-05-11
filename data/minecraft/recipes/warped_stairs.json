@@ -1,0 +1,19 @@
+
+{
+    "type": "crafting_shaped",
+	"group": "nether_life:wooden_stairs",
+    "pattern": [
+        "#  ",
+        "## ",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:warped_planks"
+        }
+    },
+    "result": {
+        "item": "minecraft:warped_stairs",
+        "count": 6
+    }
+}

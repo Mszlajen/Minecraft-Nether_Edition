@@ -6,11 +6,10 @@
 - Chances of mushrooms dropping from warts increased
 - Horse armor (all types) replaced for Red nether bricks in Nether Fortresses' chests
 - Nether dimension changed to default values
-- Nether height increased to 256 blocks
-- Nether portals get destroyed when trying to uses them
+- Nether portals get destroyed when trying to use them
 - Remove obsidian and crying obsidian recipes
 - Nether foliage can be made into paper
-- Nether foliage drops only slight worse than vanilla
+- Nether foliage drops only slightly worse than vanilla
 - Gilded blackstone requires a gold ingot and smithing table
 - Blackstone can no longer be made with basalt
 - Piglins have small chanche of mending and diamonds in place of iron boots and nether bricks, rest is vanilla
@@ -19,3 +18,5 @@
 - Shears work with warts
 - Get back to nether if spawn point is not set or unusable
 - Stonecutter with basalt
+- Get more trapdoor and stair per plank (same as planks needed)
+- Reduced the drops in piglins' loot table
