@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "GSG",
+        "SGS",
+        "GSG"
+    ],
+    "key": {
+        "S": {
+            "item": "minecraft:soul_sand"
+        },
+        "G": {
+            "item": "minecraft:gunpowder"
+        }
+    },
+    "result": {
+        "item": "minecraft:tnt"
+    }
+}

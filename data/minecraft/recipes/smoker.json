@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "WWW",
+        "WFW",
+        "WWW"
+    ],
+    "key": {
+        "W": {
+            "tag": "minecraft:non_flammable_wood"
+        },
+        "F": {
+            "item": "minecraft:furnace"
+        }
+    },
+    "result": {
+        "item": "minecraft:smoker"
+    }
+}

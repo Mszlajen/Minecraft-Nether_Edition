@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+     "pattern": [
+         "SS ",
+         "SB ",
+         "  S"
+     ],
+     "key": {
+         "S": {
+             "item": "minecraft:string"
+         },
+         "B": {
+             "item": "minecraft:magma_cream"
+         }
+     },
+     "result": {
+         "item": "minecraft:lead"
+     }
+}

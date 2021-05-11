@@ -1,0 +1,25 @@
+{
+    "parent": "minecraft:recipes/root",
+    "rewards": {
+      "recipes": [
+        "nether_life:leather_from_rotten_flesh"
+      ]
+    },
+    "criteria": {
+      "has_smoker": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "items": [
+            {
+              "item": "minecraft:smoker"
+            }
+          ]
+        }
+      }
+    },
+    "requirements": [
+      [
+        "has_smoker"
+      ]
+    ]
+  }

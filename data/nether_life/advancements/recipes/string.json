@@ -1,0 +1,36 @@
+{
+    "parent": "minecraft:recipes/root",
+    "rewards": {
+      "recipes": [
+        "nether_life:cobweb"
+      ]
+    },
+    "criteria": {
+      "has_string": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "items": [
+            {
+              "item": "minecraft:string"
+            }
+          ]
+        }
+      },
+      "has_cobweb": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "items": [
+            {
+              "item": "minecraft:cobweb"
+            }
+          ]
+        }
+      }
+    },
+    "requirements": [
+      [
+        "has_string",
+        "has_cobweb"
+      ]
+    ]
+  }

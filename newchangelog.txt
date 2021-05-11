@@ -1,17 +1,14 @@
-## [2.0.0] - 2021-05-
+## [1.0.0] - 2021-05-
 ### Changes
 - Zombified piglins no longer named Zombie piglins
 - Mushroom stems -> Oak log recipe no longer available
 - Old reliable enchantments no longer hidden (so the player knows about curse of vanishing)
 - Chances of mushrooms dropping from warts increased
 - Horse armor (all types) replaced for Red nether bricks in Nether Fortresses' chests
-- Nether dimension changed to default values
 - Nether portals get destroyed when trying to use them
-- Remove obsidian and crying obsidian recipes
 - Nether foliage can be made into paper
 - Nether foliage drops only slightly worse than vanilla
-- Gilded blackstone requires a gold ingot and smithing table
-- Blackstone can no longer be made with basalt
+- Gilded blackstone can be made with a gold ingot and smithing table
 - Piglins have small chanche of mending and diamonds in place of iron boots and nether bricks, rest is vanilla
 - Redstone stuff
 - Get redstone and lapis from wart and furnace or blast furnace
@@ -20,3 +17,7 @@
 - Stonecutter with basalt
 - Get more trapdoor and stair per plank (same as planks needed)
 - Reduced the drops in piglins' loot table
+- TNT can be crafted with soul sand
+- Smoker can be crafted with nether woods
+- Leather from rotten flesh with smoker
+- Some useful random crafting recipes
