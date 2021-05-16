@@ -20,7 +20,7 @@
                 },
                 {
                     "condition": "random_chance_with_looting",
-                    "chance": 1,
+                    "chance": 0.02,
                     "looting_multiplier": 0.01
                 }
             ],
@@ -34,8 +34,11 @@
                             "destination": "igloo",
                             "decoration": "target_point",
                             "zoom": 1,
-                            "skip_existing_chunks": false,
-                            "name":"End Portal Explorer Map"
+                            "skip_existing_chunks": false
+                        },
+                        {
+                          "function": "minecraft:set_name",
+                          "name": "End Portal Explorer Map"
                         }
                     ]
                 }
