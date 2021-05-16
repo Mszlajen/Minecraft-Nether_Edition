@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "SBS",
+        "W W"
+    ],
+    "key": {
+        "S": {
+            "item": "minecraft:stick"
+        },
+        "B": {
+            "item": "minecraft:polished_basalt"
+        },
+        "W": {
+            "tag": "minecraft:non_flammable_wood"
+        }
+    },
+    "result": {
+        "item": "minecraft:grindstone"
+    }
+}
