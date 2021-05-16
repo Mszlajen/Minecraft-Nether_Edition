@@ -21,3 +21,5 @@
 - Smoker can be crafted with nether woods
 - Leather from rotten flesh with smoker
 - Some useful random crafting recipes
+- Played with world gen for a different nether
+- Nether portal room spawn in warped forest (Enderman may know the place)

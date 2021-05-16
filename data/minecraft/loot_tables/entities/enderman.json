@@ -1,0 +1,74 @@
+{
+    "type": "minecraft:entity",
+    "pools": [
+        {
+            "rolls":1.0,
+            "bonus_rolls": 0.0,
+            "conditions": [
+                {
+                    "condition": "killed_by_player"
+                },
+                {
+                    "condition": "damage_source_properties",
+                    "predicate": {
+                        "source_entity": {
+                            "location": {
+                                "dimension": "the_nether"
+                            }
+                        }
+                    }
+                },
+                {
+                    "condition": "random_chance_with_looting",
+                    "chance": 1,
+                    "looting_multiplier": 0.01
+                }
+            ],
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:map",
+                    "functions": [
+                        {
+                            "function": "minecraft:exploration_map",
+                            "destination": "igloo",
+                            "decoration": "target_point",
+                            "zoom": 1,
+                            "skip_existing_chunks": false,
+                            "name":"End Portal Explorer Map"
+                        }
+                    ]
+                }
+            ]
+        },
+      {
+        "rolls": 1.0,
+        "bonus_rolls": 0.0,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 0.0,
+                  "max": 1.0
+                },
+                "add": false
+              },
+              {
+                "function": "minecraft:looting_enchant",
+                "count": {
+                  "type": "minecraft:uniform",
+                  "min": 0.0,
+                  "max": 1.0
+                }
+              }
+            ],
+            "name": "minecraft:ender_pearl"
+          }
+        ]
+      }
+    ]
+  }
