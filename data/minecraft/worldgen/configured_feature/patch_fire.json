@@ -37,7 +37,7 @@
     },
     "decorator": {
       "config": {
-        "count": 10
+        "count": 20
       },
       "type": "minecraft:fire"
     }
