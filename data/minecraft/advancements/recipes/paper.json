@@ -11,7 +11,7 @@
       "conditions": {
         "items": [
           {
-            "tag": "minecraft:nether_paper_material"
+            "tag": "nether_life:nether_paper_material"
           }
         ]
       }

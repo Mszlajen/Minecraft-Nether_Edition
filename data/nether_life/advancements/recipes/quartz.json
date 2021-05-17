@@ -4,7 +4,7 @@
     "recipes": [
       "minecraft:quartz",
 	    "nether_life:iron_nugget_from_quartz",
-	    "nether_life:iron_nugget_from_quartz_blasting"
+	    "nether_life:iron_ingot_from_quartz_blasting"
     ]
   },
   "criteria": {

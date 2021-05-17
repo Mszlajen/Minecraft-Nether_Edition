@@ -4,7 +4,7 @@
       "Name": "minecraft:soul_sand"
     },
     "under_material": {
-      "Name": "minecraft:soul_sand"
+      "Name": "minecraft:soul_soil"
     },
     "underwater_material": {
       "Name": "minecraft:soul_sand"

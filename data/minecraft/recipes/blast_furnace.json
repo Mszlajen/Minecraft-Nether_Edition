@@ -7,7 +7,7 @@
   ],
   "key": {
     "#": {
-      "tag": "minecraft:blast_furnace_materials"
+      "item": "polished_blackstone"
     },
     "X": {
       "item": "minecraft:furnace"
