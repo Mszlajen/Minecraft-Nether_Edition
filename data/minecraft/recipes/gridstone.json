@@ -9,10 +9,10 @@
             "item": "minecraft:stick"
         },
         "B": {
-            "item": "minecraft:polished_basalt"
+            "tag": "nether_edition:stones/stone_slab"
         },
         "W": {
-            "tag": "minecraft:non_flammable_wood"
+            "tag": "nether_edition:nether_planks"
         }
     },
     "result": {

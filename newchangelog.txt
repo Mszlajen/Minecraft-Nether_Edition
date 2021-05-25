@@ -1,20 +1,16 @@
 ## [1.0.0] - 2021-05-
 ### Changes
-- Zombified piglins no longer named Zombie piglins
-- Mushroom stems -> Oak log recipe no longer available
 - Old reliable enchantments no longer hidden (so the player knows about curse of vanishing)
 - Chances of mushrooms dropping from warts increased
 - Horse armor (all types) replaced for Red nether bricks in Nether Fortresses' chests
 - Nether portals get destroyed when trying to use them
-- Nether foliage can be made into paper
+- Nether foliage can be made into paper and sugar
 - Nether foliage drops only slightly worse than vanilla
 - Gilded blackstone can be made with a gold ingot and smithing table
-- Piglins have small chanche of mending and diamonds in place of iron boots and nether bricks, rest is vanilla
+- Piglins have small chanche of mending and diamonds in place of iron boots and nether bricks plus some twicks to weights
 - Redstone stuff
 - Get redstone and lapis from wart and furnace or blast furnace
-- Shears work with warts
-- Get back to nether if spawn point is not set or unusable
-- Stonecutter with basalt
+- Fortune work with warts as if they were leaves
 - Get more trapdoor and stair per plank (same as planks needed)
 - Reduced the drops in piglins' loot table
 - TNT can be crafted with soul sand
@@ -24,3 +20,7 @@
 - Played with world gen for a different nether
 - Nether portal room spawn in warped forest (Enderman may know the place)
 - Ghast are more explosive (Double gunpowder drops)
+- Undo quartz blocks, wool and glowstone
+- Fortune mushrooms
+- Blazes drop glowstone dust
+- Added ways to get most of the necesary items for potions

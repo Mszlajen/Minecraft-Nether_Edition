@@ -13,10 +13,10 @@
         "item": "minecraft:quartz"
       },
       "S": {
-        "item": "minecraft:basalt"
+        "tag": "nether_edition:stones/stone"
       }
     },
     "result": {
-      "item": "minecraft:repeater"
+      "item": "minecraft:comparator"
     }
   }

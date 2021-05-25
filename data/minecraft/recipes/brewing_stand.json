@@ -9,7 +9,7 @@
             "item": "minecraft:blaze_rod"
         },
         "B": {
-            "item": "minecraft:blackstone"
+            "tag": "nether_edition:stones/cobblestone"
         }
     },
     "result": {

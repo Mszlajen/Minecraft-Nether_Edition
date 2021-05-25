@@ -9,7 +9,7 @@
             "item": "minecraft:stick"
         },
         "B": {
-            "item": "minecraft:blackstone"
+            "tag": "nether_edition:stones/cobblestone"
         }
     },
     "result": {

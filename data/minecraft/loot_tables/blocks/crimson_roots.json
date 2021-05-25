@@ -12,7 +12,7 @@
               "conditions": [
                     {
                       "condition": "minecraft:reference",
-                      "name":"nether_life:silk_and_shears"
+                      "name":"nether_edition:silk_and_shears"
                     }
                   ],    
               "name": "minecraft:crimson_roots"

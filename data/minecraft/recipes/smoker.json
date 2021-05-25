@@ -7,7 +7,7 @@
     ],
     "key": {
         "W": {
-            "tag": "minecraft:non_flammable_wood"
+            "tag": "nether_edition:nether_logs"
         },
         "F": {
             "item": "minecraft:furnace"

@@ -7,7 +7,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "weight": 5,
+          "weight": 10,
           "functions": [
             {
               "function": "minecraft:enchant_randomly",
@@ -20,7 +20,7 @@
         },
         {
           "type": "minecraft:item",
-          "weight": 8,
+          "weight": 10,
           "functions": [
             {
               "function": "minecraft:enchant_randomly",
@@ -33,7 +33,7 @@
         },
         {
           "type": "minecraft:item",
-          "weight": 8,
+          "weight": 10,
           "functions": [
             {
               "function": "minecraft:set_nbt",
@@ -44,7 +44,7 @@
         },
         {
           "type": "minecraft:item",
-          "weight": 8,
+          "weight": 10,
           "functions": [
             {
               "function": "minecraft:set_nbt",
@@ -66,7 +66,7 @@
         },
         {
           "type": "minecraft:item",
-          "weight": 5,
+          "weight": 15,
           "functions": [
             {
               "function": "minecraft:set_count",
@@ -82,7 +82,7 @@
         },
         {
           "type": "minecraft:item",
-          "weight": 20,
+          "weight": 30,
           "functions": [
             {
               "function": "minecraft:set_count",
@@ -98,7 +98,7 @@
         },
         {
           "type": "minecraft:item",
-          "weight": 20,
+          "weight": 30,
           "functions": [
             {
               "function": "minecraft:set_count",
@@ -119,7 +119,7 @@
         },
         {
           "type": "minecraft:item",
-          "weight": 40,
+          "weight": 30,
           "functions": [
             {
               "function": "minecraft:set_count",
@@ -140,23 +140,7 @@
         },
         {
           "type": "minecraft:item",
-          "weight": 40,
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "type": "minecraft:uniform",
-                "min": 2.0,
-                "max": 4.0
-              },
-              "add": false
-            }
-          ],
-          "name": "minecraft:leather"
-        },
-        {
-          "type": "minecraft:item",
-          "weight": 40,
+          "weight": 20,
           "functions": [
             {
               "function": "minecraft:set_count",

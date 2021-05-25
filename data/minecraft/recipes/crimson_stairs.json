@@ -1,7 +1,7 @@
 
 {
     "type": "crafting_shaped",
-	"group": "nether_life:wooden_stairs",
+	"group": "nether_edition:wooden_stairs",
     "pattern": [
         "#  ",
         "## ",

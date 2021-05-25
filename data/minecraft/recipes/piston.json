@@ -7,10 +7,10 @@
     ],
     "key": {
       "W": {
-        "tags": "minecraft:planks"
+        "tag": "nether_edition:nether_planks"
       },
       "C": {
-        "item": "minecraft:blackstone"
+        "tag": "nether_edition:stones/cobblestone"
       },
       "R": {
         "item": "minecraft:redstone"

@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "tag": "nether_edition:nether_paper_material"
+        },
+        {
+            "tag": "nether_edition:nether_paper_material"
+        },
+        {
+            "tag": "nether_edition:nether_paper_material"
+        }
+    ],
+    "result": {
+        "item": "minecraft:sugar"
+    }
+}

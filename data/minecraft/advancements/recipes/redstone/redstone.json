@@ -7,7 +7,8 @@
         "minecraft:dispenser",
         "minecraft:dropper",
         "minecraft:repeater",
-        "minecraft:observer"
+        "minecraft:observer",
+        "minecraft:target"
       ]
     },
     "criteria": {

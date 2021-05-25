@@ -1,9 +1,0 @@
-{
-    "type": "smoking",
-    "cookingtime": 200,
-    "experience": 0.1,
-    "result": "minecraft:leather",
-    "ingredient": {
-        "item": "minecraft:leather"
-    }
-}

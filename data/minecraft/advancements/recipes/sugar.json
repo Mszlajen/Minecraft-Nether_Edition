@@ -1,0 +1,25 @@
+{
+    "parent": "minecraft:recipes/root",
+    "rewards": {
+      "recipes": [
+        "minecraft:sugar"
+      ]
+    },
+    "criteria": {
+      "has_nether_foliage": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "items": [
+            {
+              "tag": "nether_edition:nether_paper_material"
+            }
+          ]
+        }
+      }
+    },
+    "requirements": [
+      [
+        "has_nether_foliage"
+      ]
+    ]
+  }
