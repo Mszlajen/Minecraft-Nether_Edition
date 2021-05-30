@@ -24,3 +24,4 @@
 - Fortune mushrooms
 - Blazes drop glowstone dust
 - Added ways to get most of the necesary items for potions
+- Horse armor removed from end cities, enchanted golded apple added and beetroot seed increased in probability
