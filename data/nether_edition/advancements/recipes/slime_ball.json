@@ -2,7 +2,7 @@
     "parent": "minecraft:recipes/root",
     "rewards": {
       "recipes": [
-        "minecraft:lead"
+        "nether_edition:slimeball"
       ]
     },
     "criteria": {
@@ -16,17 +16,21 @@
           ]
         }
       },
-      "has_the_recipe": {
-        "trigger": "minecraft:recipe_unlocked",
+      "has_slime": {
+        "trigger": "minecraft:inventory_changed",
         "conditions": {
-          "recipe": "minecraft:lead"
+            "items": [
+                {
+                    "item": "minecraft:slime_ball"
+                }
+            ]
         }
       }
     },
     "requirements": [
       [
         "has_magma_cream",
-        "has_the_recipe"
+        "has_slime"
       ]
     ]
   }

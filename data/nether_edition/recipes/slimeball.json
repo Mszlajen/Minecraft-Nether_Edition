@@ -2,13 +2,13 @@
     "type": "minecraft:crafting_shapeless",
     "ingredients": [
         {
-            "item": "minecraft:piston"
+            "item": "minecraft:magma_cream"
         },
         {
-            "item": "minecraft:magma_cream"
+            "item": "minecraft:glowstone_dust"
         }
     ],
     "result": {
-      "item": "minecraft:sticky_piston"
+        "item": "minecraft:slime_ball"
     }
-  }
+}
